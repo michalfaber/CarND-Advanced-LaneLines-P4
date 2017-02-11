@@ -2,6 +2,14 @@
 =================================
 
 
+<div align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tUZGeJvcEIM
+" target="_blank"><img src="http://img.youtube.com/vi/tUZGeJvcEIM/0.jpg"
+alt="youtube link" width="480" height="360" border="10" /></a>
+<br>
+<br>
+</div>
+
 The goals / steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
